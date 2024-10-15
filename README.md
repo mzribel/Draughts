@@ -1,3 +1,1 @@
-"# Draughts" 
-
-lkxjcklwxj
+# Draughts
