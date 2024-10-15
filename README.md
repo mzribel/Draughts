@@ -11,7 +11,7 @@ Ce projet est divisé en trois parties distinctes, chacune possédant son propre
 
 - Inscription / Connexion utilisateur
 - Matchmaking concurrent contre un autre joueur (websockets)
-- Jeu de dames appliquant strictement les règles des [Dames Anglaises (Draughts)[https://fr.wikipedia.org/wiki/Dames_anglaises]
+- Jeu de dames appliquant strictement les règles des [Dames Anglaises (Draughts)](https://fr.wikipedia.org/wiki/Dames_anglaises)
 - Conversion des données de jeu téléchargeables sous le format international [PDN (Portable Draughts Notation)](https://en.wikipedia.org/wiki/Portable_Draughts_Notation), lisible par divers logiciels de traitement des données de jeu.
 - Implémentation future de l'import de données de jeu PDN à des fins d'analyse et de review de parties 
 
